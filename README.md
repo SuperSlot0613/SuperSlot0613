@@ -28,18 +28,18 @@
     <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
   </a> -->
 
-<!--   <a href="https://stackshare.io/anhello">
+<!--  <a href="https://stackshare.io/anhello">
     <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
+  </a> -->
+  
+  <a href="https://github.com/SuperSlot0613?tab=repositories">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Saurabh Yadav Github Profile" height="30" width="30">
   </a>
   
-  <a href="https://gitlab.com/AnhellO">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://medium.com/@ajzavala">
+<!--   <a href="https://medium.com/@ajzavala">
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
-  </a>
-   -->
+  </a> -->
+  
 <!--   <a href="https://resume-portfolio-08c7a8.netlify.app/">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
   </a> -->
@@ -84,7 +84,8 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SuperSlot0613&show_icons=true&theme=synthwave" alt="Saurabh :: Profile Stats" /></p>
 
-<p align="center"><img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /></p>
+<p align="center"><img width="35%" align="center" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /></p>
+ &nbsp;
 
 ---
 
