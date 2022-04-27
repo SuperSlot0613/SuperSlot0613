@@ -43,8 +43,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://resume-portfolio-08c7a8.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/saurabh-yadav-2aa35221a/"><img alt="LinkedIn" src="https://media-exp1.licdn.com/dms/image/C4E03AQF5ysMfxZq13Q/profile-displayphoto-shrink_200_200/0/1629295231486?e=1656547200&v=beta&t=qXnNhcAr1VlH7ZBZVAK7JLGHLsy3dkLtWlCS8NP6_I0"></a>
+<a href="https://resume-portfolio-08c7a8.netlify.app/"><img alt="Website" src=""></a>
+<a href="https://www.linkedin.com/in/saurabh-yadav-2aa35221a/"><img alt="LinkedIn" src=""></a>
 <a href="saurabhyadav0613@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
