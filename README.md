@@ -2,32 +2,11 @@
 
 <h2 align="center">About me</h2>
 
-```golang
-package main
-
-import (
-	"fmt"
-)
-
-type Bio map[string]string
-
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
-
-func GetBio() Bio {
-	return Bio{
-	      sportsAficionado hybrid",
-		"- 🌱 I’m currently learning":        "React Js, React Native, MongoDB (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Android Developer and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "React Js, React Native, Node Js, Redux, SQL",
-		"- 📫 How to reach me:":              "https://github.com/SuperSlot0613?tab=repositories",
-	}
-}
-```
+👨🏻‍💻  About Me
+🤔   Exploring new technologies and developing software solutions and quick hacks.
+🎓   Studying Information Technology at University of Mumbai.
+🌱   Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+✍️   Pursuing B.TECH and Gaming as hobbies/side hustles.
 
 <h2 align="center">You can reach me at :alien:</h2>
 
