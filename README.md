@@ -43,8 +43,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuperSlot0613=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSlot0613=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuperSlot0613&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSlot0613&theme=buefy&layout=compact" />
 </a>
 
 <br/>
