@@ -2,11 +2,12 @@
 
 <h2 align="center">About me</h2>
 
-👨🏻‍💻  About Me
-🤔   Exploring new technologies and developing software solutions and quick hacks.
-🎓   Studying Information Technology at University of Mumbai.
-🌱   Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-✍️   Pursuing B.TECH and Gaming as hobbies/side hustles.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Information Technology at University of Mumbai.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing B.TECH and Gaming as hobbies/side hustles.
 
 <h2 align="center">You can reach me at :alien:</h2>
 
