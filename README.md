@@ -1,4 +1,4 @@
-# Saurabh Yadav
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=SuperSlot0613.SuperSlot0613&color=44CC11)
 
 <h2 align="center">About me</h2>
 
@@ -9,41 +9,24 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing B.TECH and Gaming as hobbies/side hustles.
 
-<h2 align="center">You can reach me at :alien:</h2>
-
-<p align="center">
-  <a href="https://resume-portfolio-08c7a8.netlify.app/">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Saurabh Yadav DEV Profile" height="30" width="30">
-  </a>
-
-  <a href="https://www.linkedin.com/in/saurabh-yadav-2aa35221a/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Saurabh Yadav LinkedIn Profile" height="30" width="30">
-  </a>
-
-<!--   <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
-  </a> -->
-
-<!--  <a href="https://stackshare.io/anhello">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
-  </a> -->
-  
-  <a href="https://github.com/SuperSlot0613?tab=repositories">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Saurabh Yadav Github Profile" height="30" width="30">
-  </a>
-  
-<!--   <a href="https://medium.com/@ajzavala">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
-  </a> -->
-  
-<!--   <a href="https://resume-portfolio-08c7a8.netlify.app/">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
-  </a> -->
+<h3 align="left">Feel free to connect with me: </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/saurabh-yadav-2aa35221a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="" target="blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="mailto:saurabhyadav0613@gmail.com" >
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 </p>
+<br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
