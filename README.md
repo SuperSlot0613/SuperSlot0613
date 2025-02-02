@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=SuperSlot0613.SuperSlot0613&color=44CC11)
-
 <h2 align="center">About me</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
