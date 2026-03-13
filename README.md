@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Yadav</h1>
 <h3 align="center">I am a results-driven Salesforce Developer and Full-Stack JavaScript Engineer with hands-on experience in Salesforce Apex, LWC, Flows, and automation, along with expertise in React Native and React.js for building scalable, user-friendly mobile and web applications. I enjoy solving complex problems, improving system performance, and delivering clean, maintainable code across platforms. I’m passionate about learning new technologies, optimizing processes, and building impactful solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=superslot0613&label=Profile%20views&color=0e75b6&style=flat" alt="superslot0613" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=superslot0613" alt="superslot0613" /></a> </p>
-
 - 🔭 I’m currently working on **Salesforce CRM**
 
 - 🌱 I’m currently learning **AWS Cloud**
